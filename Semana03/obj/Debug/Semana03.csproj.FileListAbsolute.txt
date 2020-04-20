@@ -1,0 +1,14 @@
+C:\Users\DIEGO\source\repos\Semana03\Semana03\obj\Debug\Semana03.csprojAssemblyReference.cache
+C:\Users\DIEGO\source\repos\Semana03\Semana03\obj\Debug\MainWindow.g.cs
+C:\Users\DIEGO\source\repos\Semana03\Semana03\obj\Debug\App.g.cs
+C:\Users\DIEGO\source\repos\Semana03\Semana03\obj\Debug\Semana03_MarkupCompile.cache
+C:\Users\DIEGO\source\repos\Semana03\Semana03\obj\Debug\Semana03_MarkupCompile.lref
+C:\Users\DIEGO\source\repos\Semana03\Semana03\bin\Debug\Semana03.exe.config
+C:\Users\DIEGO\source\repos\Semana03\Semana03\bin\Debug\Semana03.exe
+C:\Users\DIEGO\source\repos\Semana03\Semana03\bin\Debug\Semana03.pdb
+C:\Users\DIEGO\source\repos\Semana03\Semana03\obj\Debug\MainWindow.baml
+C:\Users\DIEGO\source\repos\Semana03\Semana03\obj\Debug\Semana03.g.resources
+C:\Users\DIEGO\source\repos\Semana03\Semana03\obj\Debug\Semana03.Properties.Resources.resources
+C:\Users\DIEGO\source\repos\Semana03\Semana03\obj\Debug\Semana03.csproj.GenerateResource.cache
+C:\Users\DIEGO\source\repos\Semana03\Semana03\obj\Debug\Semana03.exe
+C:\Users\DIEGO\source\repos\Semana03\Semana03\obj\Debug\Semana03.pdb
